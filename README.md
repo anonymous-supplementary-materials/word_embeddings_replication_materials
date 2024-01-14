@@ -58,7 +58,7 @@ gensim 3.8.3
 sklearn 1.0.2  
 numpy 1.21.5  
 
------Computational resources-----
+-----Computational resources-----  
 Run on 16 core Intel(R) Xeon(R) Gold 6338 CPU @ 2GHz, each NLPL model takes on average 45 minutes to fine-tune on this hardware for the full 50 epochs, each Riksdag model takes 35 minutes to fine-tune on the full 50 epochs.
 
 
